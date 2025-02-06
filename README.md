@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Robert93a0hw7ijLabrum
 
-<!--
-**Robert93a0hw7ijLabrum/Robert93a0hw7ijLabrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 🎱 Dedicated to mastering back-end development 🎨 🎱
 
-Here are some ideas to get you started:
+## About Me
+🎪 🛹 🚣 A geek in design thinking 🎪 🛹 🚣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🔥 🎮 🏒 Exploring the world of product management 🔥 🎮 🏒
+
+### Fun Facts
+🚵 🚣 A nerd in open source 🚵 🚣
+
+---
+🏓 🏸 🏊 🎯 🏏 Thanks for visiting my profile! 🥁 🎰 🏏 🎵 🎬
